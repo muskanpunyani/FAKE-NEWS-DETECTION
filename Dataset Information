@@ -1,0 +1,9 @@
+you can create any dataset as per your choice or can download it from the internet.
+My dataset was having 4 columns:
+1)Number
+2)Title
+3)Text
+4)Label (real or fake)
+ The model was trained using supervised learning as we are giving labeled dataset to train and then expecting outcomes for our news.
+ The code can be understood even by beginner as I have commented each line.
+ The model is working with 93% accuracy.
